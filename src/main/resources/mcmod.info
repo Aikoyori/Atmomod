@@ -1,0 +1,16 @@
+[
+{
+  "modid": "atmo",
+  "name": "The Atmosphex Mod",
+  "description": "Mod by Atmosphex",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Atmosphex"],
+  "credits": "MrCrayfish and his tuts",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
